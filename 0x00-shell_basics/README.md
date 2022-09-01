@@ -1,1 +1,1 @@
-Display curreny directory contents
+create a script
