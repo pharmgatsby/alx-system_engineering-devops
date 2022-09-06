@@ -1,0 +1,2 @@
+#!/bin/bash
+egrep -i ^ /etc/ssh/shd_config
